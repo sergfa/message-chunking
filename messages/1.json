@@ -1,0 +1,92 @@
+[
+  {
+    "_id": "6381f2f2fdea754d62755355",
+    "index": 0,
+    "guid": "d3edc6a8-14b9-4f59-b3da-787dd8863752",
+    "isActive": true,
+    "balance": "$2,934.74",
+    "picture": "http://placehold.it/32x32",
+    "age": 22,
+    "eyeColor": "brown",
+    "name": "Barry Hughes",
+    "gender": "male",
+    "company": "STEELFAB",
+    "email": "barryhughes@steelfab.com",
+    "phone": "+1 (956) 423-2557",
+    "address": "740 Canton Court, Croom, Marshall Islands, 5372",
+    "about": "Ipsum aliquip fugiat enim ex elit incididunt reprehenderit. Esse magna cillum et aliquip consequat sunt non adipisicing. Et exercitation ut veniam dolor eiusmod commodo anim id dolor quis commodo veniam excepteur eu. Occaecat magna tempor excepteur reprehenderit mollit pariatur cillum. Excepteur id est occaecat pariatur Lorem veniam aliqua nulla fugiat. Do incididunt quis fugiat consequat exercitation dolore excepteur culpa mollit nostrud. Fugiat ex excepteur enim enim est irure nisi deserunt velit sunt anim cupidatat labore labore.\r\n",
+    "registered": "2021-08-17T01:22:07 -03:00",
+    "latitude": 0.553367,
+    "longitude": 129.324982,
+    "tags": [
+      "officia",
+      "officia",
+      "excepteur",
+      "exercitation",
+      "culpa",
+      "eu",
+      "officia"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Dorsey Perry"
+      },
+      {
+        "id": 1,
+        "name": "James Owen"
+      },
+      {
+        "id": 2,
+        "name": "Townsend James"
+      }
+    ],
+    "greeting": "Hello, Barry Hughes! You have 6 unread messages.",
+    "favoriteFruit": "strawberry"
+  },
+  {
+    "_id": "6381f2f200eb9ece4da22ffe",
+    "index": 1,
+    "guid": "70d8f6d0-fdc6-4635-ad13-c5b66e864eec",
+    "isActive": true,
+    "balance": "$1,507.40",
+    "picture": "http://placehold.it/32x32",
+    "age": 30,
+    "eyeColor": "green",
+    "name": "Walter Levy",
+    "gender": "male",
+    "company": "WRAPTURE",
+    "email": "walterlevy@wrapture.com",
+    "phone": "+1 (925) 531-2978",
+    "address": "560 Danforth Street, Goodville, South Carolina, 550",
+    "about": "Consectetur nostrud tempor aute consequat deserunt culpa nulla esse laborum officia. Cupidatat nostrud minim sit nostrud deserunt. Adipisicing tempor consequat ullamco qui eu magna in sint ex consequat eu cupidatat reprehenderit cupidatat. Aliqua dolore ex commodo in aute cupidatat voluptate cupidatat dolore culpa sint minim voluptate.\r\n",
+    "registered": "2017-07-10T07:11:50 -03:00",
+    "latitude": -24.990297,
+    "longitude": 163.612725,
+    "tags": [
+      "anim",
+      "veniam",
+      "aute",
+      "excepteur",
+      "nostrud",
+      "ex",
+      "elit"
+    ],
+    "friends": [
+      {
+        "id": 0,
+        "name": "Rachel Dotson"
+      },
+      {
+        "id": 1,
+        "name": "Grace Blackburn"
+      },
+      {
+        "id": 2,
+        "name": "Dodson Justice"
+      }
+    ],
+    "greeting": "Hello, Walter Levy! You have 3 unread messages.",
+    "favoriteFruit": "banana"
+  }
+]
