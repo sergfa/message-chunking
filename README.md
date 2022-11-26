@@ -1,4 +1,4 @@
-# Handle Large JSON Messages in Kafka: Chunking
+# Handle Large JSON Messages
 
 Some broker services like Kafka have a limit on the size of the payload.
 If the message is larger than the value accepted by the broker, then a producer will fail to send the message.
